@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-# -*- coding: utf-8 -*-
-
-: "${username:="MyName"}"
-: "${token:="01234567890abcdef01234567890ab"}"
